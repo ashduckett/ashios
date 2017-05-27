@@ -1,0 +1,54 @@
+Write some homepage blurb.
+Get a logo.
+
+Welcome to my tutorials and reference guide around the creation of apps for the iOS operating system. This website exists to give me, and anyone else who wants to use it, an alternative and easy set of reference guides and tutorials.
+
+Expect this site to be a mess in places however as I'll slowly be building it up as I learn more.
+
+
+These will be the links shown in the menu bar, similar to the sony page. On clicking home, you'll be shown
+the welcome text.
+
+On clicking tutorials; images and text links will appear. Down the side will the main navigation:
+	* The Language
+	* Core Data
+	* 
+
+Home
+Tutorials
+Reference
+Contact
+
+
+Menu design:
+The menu needs to go over the top of the css fade effect.
+
+Make it a three piece one like Sony for now.
+	* Add a bar at the top. Total black, but with a red bottom border. 30 pixels tall. 100% width.
+
+
+
+Scrap the above. No theft necessary.
+
+You will need a wrapper.
+You will then need wrappers for your content.
+
+Also, what are the necessary items in the primary navigation menu?
+	* Home
+	* Learning
+	* Contact
+	* About
+
+
+Create a new page and give it the same dimensions are your resolution.
+
+I want to go with a simple design.
+
+I know how the primary navigation should look now. But what about getting around the rest of the site?
+
+Step 1 is to get a responsive menu up at the top.
+
+If I had a drop down menu it would have:
+	* Language
+	* Core Data
+	* Controls
