@@ -2,13 +2,47 @@ $(document).ready(function() {
     $('#nav-learn').click(function() {
          var container = $(document.createElement('div'));
          container.addClass('learn-menu');
-         
-         
-         container.addClass('center-v');
-        // container.height(100);
-        // container.width(100);
-      //   container.css('background-color', 'red');
-      //   container.css('margin', 'auto');
          $('main').append(container);
+
+
+
+
+
+
+
+         // Why are you building this this way?
+         // Eventually it should be a function to set the:
+         // title
+         // link
+         // img
+
+         // Construct things to learn
+         var learnable = $(document.createElement('div'));
+         learnable.addClass('learnable');
+
+         var imageContainer = $(document.createElement('div'));
+         imageContainer.addClass('learnable-img');
+
+         var actualImage = $(document.createElement('img'));
+         actualImage.attr('src', 'http://placehold.it/125x125');
+
+         
+         // We only really need a title actually
+         var textContainer = $(document.createElement('div'));
+         var title = $(document.createElement('h1'));
+         title.addClass('learnable-title');
+         title.html('Hello');
+         textContainer.append(title);
+         textContainer.css('height', '30%');
+         textContainer.css('background-color', 'red');
+
+         
+         imageContainer.append(actualImage);
+         learnable.append(imageContainer);
+         learnable.append(textContainer);
+         container.append(learnable);
+         
+
+
     });
 });
