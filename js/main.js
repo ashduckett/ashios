@@ -17,6 +17,14 @@ $(document).ready(function() {
          // img
 
          // Construct things to learn
+      
+         
+         container.append(getLearnable('JS'));
+         container.append(getLearnable('iOS'));
+
+    });
+
+    var getLearnable = function(subjectTitle) {
          var learnable = $(document.createElement('div'));
          learnable.addClass('learnable');
 
@@ -31,7 +39,7 @@ $(document).ready(function() {
          var textContainer = $(document.createElement('div'));
          var title = $(document.createElement('h1'));
          title.addClass('learnable-title');
-         title.html('Hello');
+         title.html(subjectTitle);
          textContainer.append(title);
          textContainer.css('height', '30%');
          textContainer.css('background-color', 'red');
@@ -40,9 +48,8 @@ $(document).ready(function() {
          imageContainer.append(actualImage);
          learnable.append(imageContainer);
          learnable.append(textContainer);
-         container.append(learnable);
-         
+         //container.append(learnable);
 
-
-    });
+         return learnable;
+    };
 });

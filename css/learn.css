@@ -13,7 +13,7 @@
 .learnable {
     height: 200px;
     width: 200px;
-    background-color: yellow;
+    float: left;
 }
 
 /* You need a container to put this in so it's centered and square */
@@ -22,9 +22,6 @@
     
     height: 70%;
     width: auto;
-    
-    
-
     margin: auto;
     background-color: black;
     
