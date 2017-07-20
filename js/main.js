@@ -1,8 +1,44 @@
 $(document).ready(function() {
+    // Your plugin doesn't cater for entirely dynamically loaded data
+
+    // How about having a div called splitter
     $('#nav-learn').click(function() {
-         var container = $(document.createElement('div'));
-         container.addClass('learn-menu');
-         $('main').append(container);
+        // What we actually want to happen here is to populate the main element.
+
+        // First a container
+        let learnContainer = $(document.createElement('div'));
+        learnContainer.css('background-color', 'red');
+        learnContainer.css('width', '100%');
+        learnContainer.css('height', '100%');
+        learnContainer.css('display', 'flex');
+
+        
+        $('main').append(learnContainer);
+
+        // To the container we want to append our side menu
+        let sideMenu = $(document.createElement('div'));
+        sideMenu.css('background-color', 'green');
+        sideMenu.css('width', '100%');
+
+        let left = $(document.createElement('div'));
+        left.addClass('left');
+        left.append(sideMenu);
+
+        let right = $(document.createElement('div'));
+        right.addClass('right');
+
+        right.MarkdownEditor();
+
+        learnContainer.append(left);
+        learnContainer.append(right);
+        learnContainer.SplitterBar();
+
+
+        // Now we want to create a plugin and call it on
+        // the right side so that it can be our editor/preview
+        // area. It doesn't have to be a plugin but I'm rather
+        // carried away with such things.
+        
 
 
 
@@ -10,46 +46,28 @@ $(document).ready(function() {
 
 
 
-         // Why are you building this this way?
-         // Eventually it should be a function to set the:
-         // title
-         // link
-         // img
+        // Data needs to be loaded here, but after login
 
-         // Construct things to learn
-      
-         
-         container.append(getLearnable('JS'));
-         container.append(getLearnable('iOS'));
+        sideMenu.SideMenu(function(id) {
 
+        });
+
+
+        //$("main").load("../pages/learn.html", function() {
+
+            // Set up the side menu
+           /* $('.side-menu').SideMenu(function(id) {
+               // console.log(id);
+            
+                if(id === "Swift-Variables and Constants") {
+                    $('.page').load("../learning/Variables.html");
+                }
+                
+
+            });*/
+
+            //$('.splitter').SplitterBar();
+            //$('.right-splitter').SplitterBar();
+        //});
     });
-
-    var getLearnable = function(subjectTitle) {
-         var learnable = $(document.createElement('div'));
-         learnable.addClass('learnable');
-
-         var imageContainer = $(document.createElement('div'));
-         imageContainer.addClass('learnable-img');
-
-         var actualImage = $(document.createElement('img'));
-         actualImage.attr('src', 'http://placehold.it/125x125');
-
-         
-         // We only really need a title actually
-         var textContainer = $(document.createElement('div'));
-         var title = $(document.createElement('h1'));
-         title.addClass('learnable-title');
-         title.html(subjectTitle);
-         textContainer.append(title);
-         textContainer.css('height', '30%');
-         textContainer.css('background-color', 'red');
-
-         
-         imageContainer.append(actualImage);
-         learnable.append(imageContainer);
-         learnable.append(textContainer);
-         //container.append(learnable);
-
-         return learnable;
-    };
 });

@@ -52,3 +52,24 @@ If I had a drop down menu it would have:
 	* Language
 	* Core Data
 	* Controls
+
+What you're looking at really is a hierarchical structure:
+	one item leads to several others, etc.
+
+How should I lay this out? Do you want it to only be for iOS? That was the original intention. Start with that. In which case, your options should be
+
+Swift
+	Feature 1
+	Feature 2
+Core Data
+	Basics
+	Subclassing NSManagedObject
+
+Where will the actual information live?
+Each node should point to a link, which is fine. Fucking hell it's too hot for this.
+
+You need a way to dynamically load the items.
+
+
+
+

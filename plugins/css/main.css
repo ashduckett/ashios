@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.tree-menu-ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+.tree-menu-li {
+    font-family: 'Lato';    
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+ul li span {
+    display: block;
+    line-height: 30px;
+}
+
+/* This padding should be applied within the JS that makes the menu */
+li span { padding-left:2em }
+li li span { padding-left:4em }
+li li li span { padding-left:6em }
+ul li span:hover { background:orange }
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}

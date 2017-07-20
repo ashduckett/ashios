@@ -4,7 +4,6 @@
     width: 500px;
     background-color: #fff;
     margin: auto;
-
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -19,21 +18,19 @@
 /* You need a container to put this in so it's centered and square */
 /* You could always use this as the container, though. Center it. Square it */
 .learnable-img {
-    
     height: 70%;
     width: auto;
     margin: auto;
-    background-color: black;
-    
 }
 
 .learnable-img img {
     display: block;
     margin: auto;
 
-    position: relative;
+    /* Center vertically */
+    /*position: relative;
     top: 50%;
-    transform: translateY(-50%);
+    transform: translateY(-50%);*/
 
     border-radius: 100%;
 }
@@ -44,4 +41,5 @@
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }

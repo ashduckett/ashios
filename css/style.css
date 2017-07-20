@@ -14,11 +14,12 @@ body {
 header {
     width: 100%;
     height: 65px;
-    background-color: rgb(89, 94, 111);
+    
 }
 
 nav {
     font-family: 'Lato', sans-serif;
+    font-weight: bold;
     height: 100%;
 }
 
@@ -31,14 +32,16 @@ nav ul {
 
     /* Ensure text is uppercase and white */
     text-transform: uppercase;
-    color: white;
+    color: rgb(104, 109, 108);
     margin: 0;
 
     height: 100%;
-    background-color: rgb(89, 94, 111);
+    background-color: rgb(202, 205, 212);
 }
 
 nav ul li {
+
+    cursor: pointer;
     /* Ensure menu is horizontal */
     display: inline-block;
 
@@ -59,6 +62,7 @@ nav ul li {
 main {
     height: calc(100% - 65px);
     background-color: rgb(236, 236, 237);
+   /* display: flex; */
 }
 
 .center-v {
@@ -66,3 +70,53 @@ main {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.side-menu {
+    width: 100px;
+    height: 100%;    
+}
+
+.wrapper {
+    width: 100%;
+    height: 80%;
+    margin: auto;
+    background-color: white;
+
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+
+  /*  position: relative;
+    top: 50%;
+    transform: translateY(-50%);*/
+}
+
+.page {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(236, 236, 237);
+}
+
+.editor {
+    resize: none;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: none;
+}
+
+.main-editor {
+    background-color: red;
+    flex: 1;
+}
+
+/*
+    You should be able to just find all of the spltter bars inside the current pane's panes and stop them from
+    being moved.
+this.textArea.css('font-family', '"Ubuntu Mono", Monaco');
+
+    */
+
+    textarea {
+        font-family: "Ubuntu Mono", Monaco;
+    }

@@ -5,15 +5,28 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         
         <!-- CSS -->
         <link href="css/normalize.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
         <link href="css/style.css" rel="stylesheet">
         <link href="css/learn.css" rel="stylesheet">
+        <link href="pages/learn.css" rel="stylesheet">
+
+
+
+        <link href="plugins/css/main.css" rel="stylesheet">
+
+
 
         <!-- JavaScript -->
         <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="plugins/js/SplitterBar.js"></script>
+        <script src="plugins/js/MarkdownEditor.js"></script>
         <script src="js/main.js"></script>
+
+        <script src="plugins/js/SideMenu.js"></script>
     </head>
     <body>
         <header>
@@ -26,12 +39,28 @@
                 </ul>
             </nav>
         </header>
-        <main>
-
-        </main>
         
+        
+        
+        <!-- What you actually want is for the side menu to take up some space and the rest taken up by the editor/previewer -->
+        <main>
+            <!--<aside class="side-menu"></aside> -->
+            <!-- <section class="main-editor"></section> -->
+        </main>
+
 
 
     </body>
 
 </html>
+
+<!--
+    Show the learn aside menu only once the learn button is pressed.
+    If another menu item is pressed, hide it again.
+
+    This means the menu should be moved to the side for the aside
+    so that all items are accessible.
+    
+
+
+    -->
