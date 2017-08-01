@@ -52,6 +52,8 @@ class MenuNodeCollection {
         }
     }
 }
+//////////////////// end model
+
 
 $(document).ready(function() {
     // First we want to load all menu nodes:
@@ -93,39 +95,7 @@ $(document).ready(function() {
         learnContainer.append(right);
         learnContainer.SplitterBar();
 
-
-        // Now we want to create a plugin and call it on
-        // the right side so that it can be our editor/preview
-        // area. It doesn't have to be a plugin but I'm rather
-        // carried away with such things.
-        
-
-
-
-
-
-
-
-        // Data needs to be loaded here, but after login
-
         sideMenu.SideMenu(menuNodeCollection.getRootNodes())
 
-
-        //$("main").load("../pages/learn.html", function() {
-
-            // Set up the side menu
-           /* $('.side-menu').SideMenu(function(id) {
-               // console.log(id);
-            
-                if(id === "Swift-Variables and Constants") {
-                    $('.page').load("../learning/Variables.html");
-                }
-                
-
-            });*/
-
-            //$('.splitter').SplitterBar();
-            //$('.right-splitter').SplitterBar();
-        //});
     });
 });

@@ -1,6 +1,32 @@
+// We need a controller
+class SideMenu {
+    
+}
+
+
+
 (function($) {
     $.fn.SideMenu = function(menuItems) {
         var dict = {};
+        let self = this;
+
+        let popupMenu = new PopupMenu();
+
+        let popupMenuItem = new PopupMenuItemModel("Main 1", function() {
+            let name = prompt("Root item name:");
+        });
+
+        popupMenu.addPopupMenuItem(popupMenuItem)
+
+
+        // I think this could be a plugin.
+        // The plugin would be a $.popup() plugin
+        // That took in instances of PopupMenuItem
+        // Each PopupMenuItem would have its own callback
+        this.contextmenu(function(event) {
+            popupMenu.show(event.clientX, event.clientY)
+            return false;
+        });
 
         this.addClass('side-menu');
         this.css('background-color', 'rgb(90, 95, 112)');
@@ -36,7 +62,28 @@
                         dict[element.id].toggle();
                     }
                 });
-                console.log(element)
+
+                // I need access to the model here. Do I have it?
+                span.contextmenu(function(e) {
+                    console.log('you have context menued ' + element.caption)
+                    let popupMenu = new PopupMenu();
+                    let popupMenuItem = new PopupMenuItemModel("Add new root...", function() {
+                        let name = prompt("Root item name:");
+                    });
+
+                    let popupMenuItem2 = new PopupMenuItemModel("Add new child...", function() {
+                        let name = prompt("Child item name:");
+                    });
+
+                    popupMenu.addPopupMenuItem(popupMenuItem)
+                    popupMenu.addPopupMenuItem(popupMenuItem2)
+                    popupMenu.show(e.clientX, e.clientY)
+
+                    event.stopPropagation()
+                    event.preventDefault()
+                    return false;
+                });
+
                 if(element.submenuNodes.length > 0) {
                     listItem.append(buildList(element.submenuNodes));
                 }
