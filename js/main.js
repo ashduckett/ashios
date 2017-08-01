@@ -29,51 +29,37 @@ class MenuNodeCollection {
             let newNode = new MenuNode(node.id, node.parentId, node.caption, node.text, null);
             this.addNode(newNode);
         }
+
+        // Set up the children nodes on each of the parent nodes
+        let rootNodes = this.getRootNodes();
+
+        for(let node of rootNodes) {
+            this.makeTree(node);    
+        }
     }
 
     getRootNodes() {
         return this.nodes.filter(node => node.parentId === null);
     }
 
+    // This is intended to be run on each of the root nodes.
+    makeTree(rootNode) {
+        let childrenNodes = this.nodes.filter(node => node.parentId === rootNode.id);
+        rootNode.submenuNodes = childrenNodes;
+        
+        for(let node of childrenNodes) {
+            this.makeTree(node);
+        }
+    }
 }
 
 $(document).ready(function() {
     // First we want to load all menu nodes:
     let menuNodeCollection = new MenuNodeCollection();
 
-    function makeTree(menuNode) {
-        // We have an item, which is a root. First grab its children:
-        let childrenNodes = menuNodeCollection.nodes.filter(node => node.parentId === menuNode.id);
-
-        // Now set these to be on the menuNode's subitems array
-        menuNode.submenuNodes = childrenNodes;
-
-        // Now call this same function for all the children nodes
-
-        for(let node of childrenNodes) {
-            makeTree(node);
-        }
-    }
-
     $.get("../php/getAllMenuNodes.php", function(data) {
         menuNodeCollection.readFromJSON(data);
-        let rootNodes = menuNodeCollection.getRootNodes();
-        console.log(rootNodes);
-
-        // Improve this later. For now we have our tree
-        for(let item of rootNodes) {
-            makeTree(item);
-        }
     });
-
-
-
-
-
-
-
-
-    // Your plugin doesn't cater for entirely dynamically loaded data
 
     // How about having a div called splitter
     $('#nav-learn').click(function() {
