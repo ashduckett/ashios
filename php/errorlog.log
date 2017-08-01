@@ -1,0 +1,4612 @@
+started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of C++
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of C++","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}started function call getAllconnectedsql formedArray
+(
+    [0] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 1
+                    [parentId] => 
+                    [caption] => Swift
+                    [text] => 
+                )
+
+        )
+
+    [1] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 2
+                    [parentId] => 
+                    [caption] => C++
+                    [text] => 
+                )
+
+        )
+
+    [2] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 3
+                    [parentId] => 
+                    [caption] => C
+                    [text] => 
+                )
+
+        )
+
+    [3] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 4
+                    [parentId] => 1
+                    [caption] => Child of Swift
+                    [text] => 
+                )
+
+        )
+
+    [4] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 5
+                    [parentId] => 2
+                    [caption] => Child of C++
+                    [text] => 
+                )
+
+        )
+
+    [5] => MenuNode Object
+        (
+            [data:protected] => Array
+                (
+                    [id] => 6
+                    [parentId] => 4
+                    [caption] => Grandchild of Swift
+                    [text] => 
+                )
+
+        )
+
+)
+{"nodes":[{"data":{"id":"1","parentId":null,"caption":"Swift","text":""}},{"data":{"id":"2","parentId":null,"caption":"C++","text":""}},{"data":{"id":"3","parentId":null,"caption":"C","text":""}},{"data":{"id":"4","parentId":"1","caption":"Child of Swift","text":""}},{"data":{"id":"5","parentId":"2","caption":"Child of C++","text":""}},{"data":{"id":"6","parentId":"4","caption":"Grandchild of Swift","text":""}}]}

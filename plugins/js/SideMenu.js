@@ -42,8 +42,6 @@ TreeMenuItem.prototype.getChildren = function() {
 };
 
 
-// Semicolons is misc.
-
 var fullModel = [
     {
         caption: "Swift",
@@ -100,10 +98,11 @@ var fullModel = [
 ];
 
 (function($) {
-    $.fn.SideMenu = function(callback) {
+    $.fn.SideMenu = function(menuItems) {
 
         console.log('SideMenu called');
-        var dict = [];
+        console.log(menuItems);
+        var dict = {};
 
         this.addClass('side-menu');
         this.css('background-color', 'rgb(90, 95, 112)');
@@ -111,9 +110,9 @@ var fullModel = [
 
         // Build up the model from the JSON
         var treeMenu = new TreeMenu();
-        var menuItems = [];
+      //  var menuItems = [];
 
-        var makeList = function(json) {
+        /*var makeList = function(json) {
             var menuItems = [];
 
             json.forEach(function(element) {
@@ -126,65 +125,76 @@ var fullModel = [
             });
           
             return menuItems;
-        };
+        };*/
 
-        treeMenu.menuItems = makeList(fullModel);
+        //treeMenu.menuItems = makeList(fullModel);
 
-
-        var list = buildList(treeMenu.getMenuItems());
+        console.log('outside')
+        console.log(menuItems)
+        var list = buildList(menuItems);
 
         this.append(list);
 
-        function buildList(menuItemList, currentId = null) {
-            
+        function buildList(menuItemList) {
+            console.log('inside buildList');
+            console.log(menuItemList)
             // Initially we need a base ul
             var list = $(document.createElement('ul'));
             list.addClass('tree-menu-ul');
 
-            // Hide all the submenus initially
-            if(currentId != null) {
-                list.hide();
-            }
-
             menuItemList.forEach(function(element) {
-                
+                console.log(element)
+
                 var listItem = $(document.createElement('li'));
                 listItem.addClass('tree-menu-li');
                 
+                // Hide list items that have a parent initially, since we only want to see roots to begin with
+                if(element.parentId !== null) {
+                    dict[element.parentId] = list;
+                    list.hide();   
+                }
+
                 var span = $(document.createElement('span'));
-               
                 span.text(element.caption);
 
                 // Need a way to identify each menu item
-                var id = currentId;
+               // var id = currentId;
 
-                if(id == null) {
-                    id = element.caption;
+               // if(id == null) {
+                //    id = element.caption;
                     
-                } else {
-                    id = id + '-' + element.caption;
-                }
+               // } else {
+                //    id = id + '-' + element.caption;
+                //}
 
-                span.attr('id', id);
+                //span.attr('id', id);
                 span.addClass('noselect');
                 listItem.append(span);
 
                 if(element.parentId !== null) {
-                    dict[element.parentId] = list;
+                    
                 }
+                console.log(dict);
 
-                span.click(function(e) {
+              /*  span.click(function(e) {
                     callback(id);
-                });
+                });*/
 
+                // How can I get hold of the list? The sublist?
                 span.dblclick(function(e) {
+                    console.log('double clicked');
+                    console.log(element.id);
+
                     if(this === e.target && dict[element.id]) {
+                        console.log('HIT')
+                        console.log(dict[element.id]);
+                        
                         dict[element.id].toggle();
                     }
                 });
 
-                if(element.hasChildren()) {
-                    listItem.append(buildList(element.children, id));
+                if(element.submenuNodes.length > 0) {
+                    listItem.append(buildList(element.submenuNodes));
                 }
                 
                 list.append(listItem);

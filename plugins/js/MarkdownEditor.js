@@ -27,11 +27,14 @@ Editor.prototype.draw = function() {
     let self = this;
 
     this.textArea.keyup(function(event) {
-        console.log('change');
+        // For now I won't do the parsing myself, I'll steal someone else's parser
+        var converter = new showdown.Converter();
+        converter.setFlavor('github');
+        var text      = self.textArea.val();
+        var html      = converter.makeHtml(text);
 
-        let withLineBreaks = self.textArea.val().replace(/\r?\n/g,'<br/>');
 
-        self.preview.previewPane.html(withLineBreaks);
+        self.preview.previewPane.html(html);
 
 
 

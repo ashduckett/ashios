@@ -1,4 +1,78 @@
+class MenuNode {
+    constructor(id, parentId, caption, text, submenuNodes) {
+        this.id = id;
+        this.parentId = parentId;
+        this.caption = caption;
+        this.text = text;
+        this.submenuNodes = submenuNodes;
+    }
+}
+
+class MenuNodeCollection {
+    constructor() {
+        this.nodes = [];
+    }
+
+    addNode(node) {
+        this.nodes.push(node);
+    }
+
+    readFromJSON(json) {
+    
+        // Pull out an array
+        let nodeCollection = JSON.parse(json).nodes;
+
+        for (let item of nodeCollection) {
+            let node = item.data;
+
+            // Construct a new object for each item in the interpretted model and add it to the collection
+            let newNode = new MenuNode(node.id, node.parentId, node.caption, node.text, null);
+            this.addNode(newNode);
+        }
+    }
+
+    getRootNodes() {
+        return this.nodes.filter(node => node.parentId === null);
+    }
+
+}
+
 $(document).ready(function() {
+    // First we want to load all menu nodes:
+    let menuNodeCollection = new MenuNodeCollection();
+
+    function makeTree(menuNode) {
+        // We have an item, which is a root. First grab its children:
+        let childrenNodes = menuNodeCollection.nodes.filter(node => node.parentId === menuNode.id);
+
+        // Now set these to be on the menuNode's subitems array
+        menuNode.submenuNodes = childrenNodes;
+
+        // Now call this same function for all the children nodes
+
+        for(let node of childrenNodes) {
+            makeTree(node);
+        }
+    }
+
+    $.get("../php/getAllMenuNodes.php", function(data) {
+        menuNodeCollection.readFromJSON(data);
+        let rootNodes = menuNodeCollection.getRootNodes();
+        console.log(rootNodes);
+
+        // Improve this later. For now we have our tree
+        for(let item of rootNodes) {
+            makeTree(item);
+        }
+    });
+
+
+
+
+
+
+
+
     // Your plugin doesn't cater for entirely dynamically loaded data
 
     // How about having a div called splitter
@@ -48,9 +122,7 @@ $(document).ready(function() {
 
         // Data needs to be loaded here, but after login
 
-        sideMenu.SideMenu(function(id) {
-
-        });
+        sideMenu.SideMenu(menuNodeCollection.getRootNodes())
 
 
         //$("main").load("../pages/learn.html", function() {
