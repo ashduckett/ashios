@@ -39,15 +39,12 @@ class PopupMenuView {
         list.css('margin', '0')
         list.addClass('noselect')
         for(let item of model.popupMenuItems) {
-            console.log(item)
+
             let listItem = $(document.createElement('li'))
             listItem.addClass('popup-list-item')
-            
-           // listItem.css('background-color', 'blue');
-            
             listItem.text(item.caption)
             
-            list.click(function() {
+            listItem.click(function() {
                 item.callback()
             })
             

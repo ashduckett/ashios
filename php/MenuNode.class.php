@@ -13,12 +13,32 @@
         // Insert the menu node into the db
         public function insert() {
             $conn = DataObject::connect();
-            $sql = "INSERT INTO " . TBL_MENU_NODE . "(parentId, caption) VALUES (:parentId, :caption)";
+            $sql = "INSERT INTO " . TBL_MENU_NODE . "(parentId, caption, text) VALUES (:parentId, :caption, :text)";
+            error_log("sql created\n", 3, 'errorlog.log');
+            error_log($sql . "\n", 3, 'errorlog.log');
+            
             $st = $conn->prepare($sql);
             $st->bindValue(":parentId", $this->data["parentId"], PDO::PARAM_INT);
             $st->bindValue(":caption", $this->data["caption"], PDO::PARAM_STR);
-            $st->execute();
+            $st->bindValue(":text", $this->data["text"], PDO::PARAM_STR);
+            error_log("About to execte SQL", 3, 'errorlog.log');
+
+    
+
+            try {
+                $st->execute();
+            } catch(PDOException $e) {
+                error_log($e->getMessage(), 3, 'errorlog.log');
+                die("Connection failed: " . $e->getMessage());
+            }
+
+
+
+
+            error_log("SQL executed", 3, 'errorlog.log');
             $lastInsertId = $conn->lastInsertId();
+
+            error_log('grabed insert id', 3, 'errorlog.log');
             DataObject::disconnect($conn);
             return $lastInsertId;
         }

@@ -151,7 +151,6 @@ Preview.prototype.draw = function() {
 
     // We should take in an argument for endDrag
     $.fn.MarkdownEditor = function() {
-        console.log('Markdown editor');
         // We know we're in a div, so let's splitter bar it.
         let editor = $(document.createElement('div'));
 
