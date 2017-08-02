@@ -1,3 +1,14 @@
+/*
+TODO LIST:
+
+1. Strip out any CSS that should be in a CSS file.
+2. Make the popup menu look nicer and allow for a disabled item state.
+3. Reuse code for popup rather than creating a new one each time.
+
+*/
+
+
+
 // We need a controller
 class SideMenu {
     constructor(element) {
@@ -33,9 +44,7 @@ class SideMenuView {
         let self = this
         self.element.html('')
         self.element.addClass('side-menu');
-        self.element.css('background-color', 'rgb(90, 95, 112)');
-        self.element.css('color', 'white');
-        
+
         // You need to pass in the model root nodes
         let list = self.buildList(model.getRootNodes());
         self.element.append(list);

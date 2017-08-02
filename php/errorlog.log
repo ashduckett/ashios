@@ -233,3 +233,6 @@ new node created
 sql created
 INSERT INTO menunode(parentId, caption, text) VALUES (:parentId, :caption, :text)
 About to execte SQLSQL executedgrabed insert idinsert run
+started function call getAllconnectedsql formedstarted function call getAllconnectedsql formedstarted function call getAllconnectedsql formedsql created
+INSERT INTO menunode(parentId, caption, text) VALUES (:parentId, :caption, :text)
+About to execte SQLSQL executedgrabed insert idstarted function call getAllconnectedsql formedstarted function call getAllconnectedsql formedstarted function call getAllconnectedsql formedstarted function call getAllconnectedsql formed
