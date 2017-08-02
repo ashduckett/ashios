@@ -4,7 +4,6 @@ class SideMenu {
         this.element = element
         this.menuNodeCollection = new MenuNodeCollection();
         this.view = new SideMenuView(element, this)
-
         let self = this
 
         this.menuNodeCollection.init(function() {
@@ -40,6 +39,32 @@ class SideMenuView {
         // You need to pass in the model root nodes
         let list = self.buildList(model.getRootNodes());
         self.element.append(list);
+
+        // This should be reusing the same popup used for child elements
+        this.element.contextmenu(function(e) {
+             let popupMenu = new PopupMenu();
+                
+            let popupMenuItem = new PopupMenuItemModel("Add new root...", function() {
+                let name = prompt("Root item name:");
+                                
+                // Make the save, then add the node to the model and then update the view
+                $.post("../php/insertMenuNode.php", { caption: name, text: "2pm", parentId: null }, function(insertId) {
+                    let newRootNode = new MenuNode(insertId, null, name, "Textttt", [])
+                    self.controller.addNode(newRootNode)
+                    
+                    // This should probably just add the node to the view rather than redraw the whole thing
+                    self.draw(self.controller.menuNodeCollection)
+                });
+            });
+            popupMenu.addPopupMenuItem(popupMenuItem)
+
+            popupMenu.show(e.clientX, e.clientY)
+            // Switch off normal context menu
+            return false;
+        });
+
+
+
     }
 
     buildList(menuItemList) {
@@ -80,17 +105,12 @@ class SideMenuView {
                     $.post("../php/insertMenuNode.php", { caption: name, text: "2pm", parentId: null }, function(insertId) {
                         let newRootNode = new MenuNode(insertId, null, name, "Textttt", [])
                         self.controller.addNode(newRootNode)    
-                        // Add node to view here, to the right parent, etc.
                         
-                        // Draw!
-                        // This isn't working. To me this means that the model is wrong.
                         // This should probably just add the node to the view rather than redraw the whole thing
                         self.draw(self.controller.menuNodeCollection)
                     });
                 });
 
-                // The problem you're having is that the new items don't have ids and you're relying on them.
-                // I wonder if I should have separate UI ids?
                 let popupMenuItem2 = new PopupMenuItemModel("Add new child...", function() {
                     let name = prompt("Child item name:");
                     
@@ -106,8 +126,6 @@ class SideMenuView {
                 popupMenu.addPopupMenuItem(popupMenuItem2)
                 popupMenu.show(e.clientX, e.clientY)
 
-                event.stopPropagation()
-                event.preventDefault()
                 return false;
             });
 
