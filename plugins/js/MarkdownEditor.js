@@ -35,48 +35,6 @@ Editor.prototype.draw = function() {
 
 
         self.preview.previewPane.html(html);
-
-
-
-        /*
-            So we now have line breaks being added.
-            In dillinger.io, one line is a br, two is a paragraph. Makes sense. How do we make it happen?
-            I think we're going to have to parse the entire text.
-
-            If we find two brs, make it a paragrah.
-
-            Iterate over all of the text.
-
-            A piece of text with nothing in front of it, or a double-br should be a paragraph.
-            A piece of text with a single br in front of it should keep that br.
-
-            Replace two brs and the text that follows them with a paragraph. This should contain any single brs inside.
-            Replace the first bit of text with a paragraph.
-
-
-        
-            So what is not a paragraph?
-                Something that begins with a hash and then a space if there are between one and six hashes.
-                A piece of text with a matching number of underlining equals or dash signs.
-
-        
-        
-        
-        
-            Different elements:
-            Outside of paragraphs:    
-                Headers start with between 1 and 6 hash symbols and then a space. You can also do it by underlining. Which is a pain.
-
-                Lists always begin with a number, a dot and then a space, or
-                an asterisk and then a space.
-
-                If it doesn't start with a list symbol or a numeric with a dot
-
-
-                Headers, Lists, Tables
-
-        */
-
     });
 
 
@@ -105,47 +63,6 @@ Preview.prototype.draw = function() {
     
     this.element.append(this.previewPane);
 };
-
-
-
-// We need to write a markdown parser. It should:
-    // Handle normal text
-    // Handle headers 1 to 6
-    // Handle ordered and unordered lists
-    // Handle quotes
-    // Handle links
-    // Handle inline code
-    // Handle block code
-    // Handle images
-
-    
-
-/*
- Ultimately we want a function we can pass a string. And the string
- be converted into HTML.
-
- Normal text: Find out the font and the font size.
- Paragraphs are formed with two carriage returns.
-
- Start by taking the text and converting it to the html for preview
- using the correct font size and font.
-
- Then do headers.
-
-
-
-
- STEP 1:
-    Get a text area into the editor pane.
-    Set its font
- */
-
-
-
-
-
-
-
 
 (function($) {
 

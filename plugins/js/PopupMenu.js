@@ -26,11 +26,14 @@ class PopupMenuView {
     draw(model, x, y) {
         let popupContainer = $(document.createElement('div'))
         popupContainer.height(100);
-        popupContainer.width(100);
+        popupContainer.width(150);
         popupContainer.css('position', 'absolute')
         popupContainer.css('left', x)
         popupContainer.css('top', y)
-        popupContainer.css('background-color', 'red')
+        popupContainer.css('background-color', 'rgb(242, 242, 242')
+        popupContainer.css('border', '1px solid rgb(204, 204, 204)')
+        popupContainer.css('font-family', 'arial,sans-serif')
+
         popupContainer.addClass('mnuPopupNodeContext');
 
         let list = $(document.createElement('ul'))
@@ -38,6 +41,7 @@ class PopupMenuView {
         list.css('padding', '0')
         list.css('margin', '0')
         list.addClass('noselect')
+        list.css('cursor', 'default')
         for(let item of model.popupMenuItems) {
 
             let listItem = $(document.createElement('li'))

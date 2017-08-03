@@ -104,6 +104,19 @@ class SideMenuView {
                 }
             });
 
+            span.click(function(e) {
+                
+              //  console.log('clicked item')
+                
+                let firstRoot = self.controller.menuNodeCollection.getRootNodes()[0];
+
+                let found = self.controller.menuNodeCollection.getNodeById(element.id)
+
+                //let found = this.controller.menuNodeCollection.getNodeById(element.id);
+                //console.log('found:')
+                //console.log(found)
+            });
+
             span.contextmenu(function(e) {
                 let popupMenu = new PopupMenu();
                 
@@ -125,14 +138,45 @@ class SideMenuView {
                     
                     $.post("../php/insertMenuNode.php", { caption: name, text: "2pm", parentId: element.id }, function(insertId) {
                         let newRootNode = new MenuNode(insertId, element.id, name, "Textttt", [])
+                        
+                        // Does this get added properly?
                         self.controller.addNodeWithParent(newRootNode)    
                         self.draw(self.controller.menuNodeCollection)
                     });
 
                 });
 
+
+                let popupMenuItem3 = new PopupMenuItemModel("Delete", function() {
+                    
+                    // If you delete the root and you have a child and a grandchild, the grandchild remains in the db
+                    // This is because it doesn't have the same id, or the same parent id.
+                    // So how the fuck can I make sure I delete all of the children?
+
+                    // You want to delete the selected node
+                    // You want to delete all of the node's children
+                    // You want to delete all of the node's children's children.
+                    // At the moment you're checking to see if the item has the same id, or if the the item has the same parent id.
+                    // This only works for the same level.
+
+
+                    $.post("../php/deleteNode.php", { id: element.id }, function() {
+                        console.log('after deletion')
+                        console.log(self.controller.menuNodeCollection)
+
+                        // let nodeToRemove = self.controller.menuNodeCollection.getNodeById(element.id);
+                        self.controller.menuNodeCollection.removeNodeAndChildren(element.id);
+
+                        self.draw(self.controller.menuNodeCollection)
+                    });
+
+                });
+
+
+
                 popupMenu.addPopupMenuItem(popupMenuItem)
                 popupMenu.addPopupMenuItem(popupMenuItem2)
+                popupMenu.addPopupMenuItem(popupMenuItem3)
                 popupMenu.show(e.clientX, e.clientY)
 
                 return false;
@@ -146,9 +190,6 @@ class SideMenuView {
         });
         return list;
     }
-
-
-        
 }
 
 class MenuNode {
@@ -166,8 +207,75 @@ class MenuNodeCollection {
         this.nodes = [];
     }
 
+    // Remove the node if it has an id of id
+    removeNodeAndChildren(id) {
+
+        let nodeFound = this.getNodeById(id)
+
+
+        if(nodeFound.parentId !== null) {
+            let parentNode = this.getNodeById(nodeFound.parentId)
+            parentNode.submenuNodes = parentNode.submenuNodes.filter(node => node.id !== id)
+        } else {
+            this.nodes = this.nodes.filter(node => node.id !== id)
+        }
+    }
+
+    searchBranchForNode(id, startingElement) {
+        /*
+        function searchTree(element, matchingTitle){
+     if(element.title == matchingTitle){
+          return element;
+     }else if (element.children != null){
+          var i;
+          var result = null;
+          for(i=0; result == null && i < element.children.length; i++){
+               result = searchTree(element.children[i], matchingTitle);
+          }
+          return result;
+     }
+     return null;
+}*/
+        // If the id is on the root of the branch, we're done. Root being our starting point.
+        if(startingElement.id === id) {
+            console.log('found searching branch');
+            console.log(startingElement)
+            return startingElement;
+        } else if(startingElement.submenuNodes !== null) {
+            let i
+            let result = null
+
+            for(i = 0; result == null && i < startingElement.submenuNodes.length; i++) {
+                result = this.searchBranchForNode(id, startingElement.submenuNodes[i])
+            }
+            console.log('returning from single branch search')
+            console.log(result)
+            return result
+        }
+        return null
+    }
+
+    // This is faulted because it will only find root nodes
     getNodeById(id) {
-        return this.nodes.filter(node => node.id === id)[0]
+        let result = null
+
+        // Start by getting all of the root nodes
+        let rootNodes = this.getRootNodes()
+
+        // Search through each of them:
+        for(let node of rootNodes) {
+            result = this.searchBranchForNode(id, node);
+
+            if(result !== null) {
+                return result;
+            }
+        }
+
+        console.log('returning')
+        console.log(result)
+        return result
+
+
     }
 
     // Adds the node regardless of parenting
@@ -178,9 +286,11 @@ class MenuNodeCollection {
     // Node must have a parent id attached
     addNodeWithParent(nodeWithParentId) {
         // Find the parent
-        let parentNode = this.nodes.filter(node => node.id === nodeWithParentId.parentId)[0]
+
+        let parentNode = this.getNodeById(nodeWithParentId.parentId)
 
         // Add to it your node
+        // Why would the parent node ever be null? 
         parentNode.submenuNodes.push(nodeWithParentId)
 
     }
