@@ -101,6 +101,11 @@ class SideMenuView {
                 }
             });
 
+            span.click(function(e) {
+                $('textarea').val(element.text);
+                $('textarea').trigger("change");
+            });
+
             span.contextmenu(function(e) {
                 let popupMenu = new PopupMenu();
                 
@@ -137,9 +142,19 @@ class SideMenuView {
                     });
                 });
 
+                let popupMenuItem4 = new PopupMenuItemModel("Save Text", function() {
+                    element.text = $('textarea').val();
+                    console.log(element.text);
+                    $.post("../php/updateNode.php", { id: element.id, parentId: element.parentId, caption: element.caption, text: element.text }, function() {
+                    //    self.controller.menuNodeCollection.removeNodeAndChildren(element.id);
+                    //    self.draw(self.controller.menuNodeCollection)
+                    });
+                });
+
                 popupMenu.addPopupMenuItem(popupMenuItem)
                 popupMenu.addPopupMenuItem(popupMenuItem2)
                 popupMenu.addPopupMenuItem(popupMenuItem3)
+                popupMenu.addPopupMenuItem(popupMenuItem4)
                 popupMenu.show(e.clientX, e.clientY)
 
                 return false;
@@ -185,24 +200,7 @@ class MenuNodeCollection {
     }
 
     searchBranchForNode(id, startingElement) {
-        /*
-        function searchTree(element, matchingTitle){
-     if(element.title == matchingTitle){
-          return element;
-     }else if (element.children != null){
-          var i;
-          var result = null;
-          for(i=0; result == null && i < element.children.length; i++){
-               result = searchTree(element.children[i], matchingTitle);
-          }
-          return result;
-     }
-     return null;
-}*/
-        // If the id is on the root of the branch, we're done. Root being our starting point.
         if(startingElement.id === id) {
-            console.log('found searching branch');
-            console.log(startingElement)
             return startingElement;
         } else if(startingElement.submenuNodes !== null) {
             let i
@@ -211,14 +209,12 @@ class MenuNodeCollection {
             for(i = 0; result == null && i < startingElement.submenuNodes.length; i++) {
                 result = this.searchBranchForNode(id, startingElement.submenuNodes[i])
             }
-            console.log('returning from single branch search')
-            console.log(result)
             return result
         }
         return null
     }
 
-    // This is faulted because it will only find root nodes
+
     getNodeById(id) {
         let result = null
 
@@ -233,9 +229,6 @@ class MenuNodeCollection {
                 return result;
             }
         }
-
-        console.log('returning')
-        console.log(result)
         return result
 
 

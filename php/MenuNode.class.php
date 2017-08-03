@@ -91,12 +91,33 @@
             parent::disconnect($conn);
             
             return $nodes[0];
-       }
+        }
 
+        // You can't currently change anything other than the text, so that's
+        // all I'm including for now.
+        public function update() {
+            try {
+                $conn = parent::connect();
+                $sql = 'UPDATE ' . TBL_MENU_NODE . ' SET text = :text WHERE id = :id';
+                $st = $conn->prepare($sql);
+                $st->bindValue(':text', $this->getValue('text'), PDO::PARAM_STR);
+                $st->bindValue(':id', $this->getValue('id'), PDO::PARAM_INT);
+                $st->execute();
+                DataObject::disconnect($conn);
+            } catch(Exception $e) {
+                error_log($e->getMessage(), 3, 'error_log.log');
+            }
+        }
+
+        
+        
+        
         public function JsonSerialize() {
             $vars = get_object_vars($this);
             return $vars;
         }
+
+
 
 
     }

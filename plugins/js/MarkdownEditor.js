@@ -11,7 +11,6 @@ Editor.prototype.draw = function() {
     editor.css('background-color', 'white');
   
     // Editor needs somewhere to edit
-    //let textArea = $(document.createElement('textarea'));
     this.textArea.css('resize', 'none');
     this.textArea.css('border', 'none');
     this.textArea.css('box-shadow', 'none');
@@ -27,6 +26,17 @@ Editor.prototype.draw = function() {
     let self = this;
 
     this.textArea.keyup(function(event) {
+        // For now I won't do the parsing myself, I'll steal someone else's parser
+        var converter = new showdown.Converter();
+        converter.setFlavor('github');
+        var text      = self.textArea.val();
+        var html      = converter.makeHtml(text);
+
+
+        self.preview.previewPane.html(html);
+    });
+
+    this.textArea.change(function(event) {
         // For now I won't do the parsing myself, I'll steal someone else's parser
         var converter = new showdown.Converter();
         converter.setFlavor('github');
@@ -59,7 +69,9 @@ Preview.prototype.draw = function() {
     this.previewPane.css('height', '100%');
     this.previewPane.css('width', '100%');
     this.previewPane.css('background-color', 'white');
-    this.previewPane.css('font-family: Georgia, Cambria, serif');
+    this.previewPane.css('font-family', 'Georgia, Cambria, serif');
+    this.previewPane.css('overflow-y', 'scroll');
+
     
     this.element.append(this.previewPane);
 };
@@ -70,10 +82,13 @@ Preview.prototype.draw = function() {
     $.fn.MarkdownEditor = function() {
         // We know we're in a div, so let's splitter bar it.
         let editor = $(document.createElement('div'));
+        editor.addClass('editorr');
 
         let left = $(document.createElement('div'));
         left.addClass('left');
+
         left.append(editor);
+        
 
         let right = $(document.createElement('div'));
         right.addClass('right');
@@ -91,8 +106,10 @@ Preview.prototype.draw = function() {
 
         let editorView = new Editor(left, editorPreview);
         editorView.draw();
+                
 
         $(this).SplitterBar();
+        left.css('width', '50%');
     }
 }(jQuery));
 
