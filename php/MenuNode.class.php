@@ -62,14 +62,12 @@
             DataObject::disconnect($conn);
         }
 
-        // If the parentId is null, then only delete that one, otherwise what's here.
-        public static function deleteNodeWithChildren($id, $parentId) {
+        public static function deleteNode($id) {
             $conn = parent::connect();
 
             try {
-                $sql = "DELETE FROM " . TBL_MENU_NODE . " WHERE id = :id";// OR parentId = :parentId";
+                $sql = "DELETE FROM " . TBL_MENU_NODE . " WHERE id = :id";
                 $st = $conn->prepare($sql);
-                //$st->bindValue(":parentId", $id, PDO::PARAM_STR);
                 $st->bindValue(":id", $id, PDO::PARAM_STR);            
                 $st->execute();
             } catch(PDOException $e) {

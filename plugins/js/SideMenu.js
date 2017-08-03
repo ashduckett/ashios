@@ -71,9 +71,6 @@ class SideMenuView {
             // Switch off normal context menu
             return false;
         });
-
-
-
     }
 
     buildList(menuItemList) {
@@ -102,19 +99,6 @@ class SideMenuView {
                 if(this === e.target && self.dict[element.id]) {
                     self.dict[element.id].toggle();
                 }
-            });
-
-            span.click(function(e) {
-                
-              //  console.log('clicked item')
-                
-                let firstRoot = self.controller.menuNodeCollection.getRootNodes()[0];
-
-                let found = self.controller.menuNodeCollection.getNodeById(element.id)
-
-                //let found = this.controller.menuNodeCollection.getNodeById(element.id);
-                //console.log('found:')
-                //console.log(found)
             });
 
             span.contextmenu(function(e) {
@@ -146,33 +130,12 @@ class SideMenuView {
 
                 });
 
-
                 let popupMenuItem3 = new PopupMenuItemModel("Delete", function() {
-                    
-                    // If you delete the root and you have a child and a grandchild, the grandchild remains in the db
-                    // This is because it doesn't have the same id, or the same parent id.
-                    // So how the fuck can I make sure I delete all of the children?
-
-                    // You want to delete the selected node
-                    // You want to delete all of the node's children
-                    // You want to delete all of the node's children's children.
-                    // At the moment you're checking to see if the item has the same id, or if the the item has the same parent id.
-                    // This only works for the same level.
-
-
                     $.post("../php/deleteNode.php", { id: element.id }, function() {
-                        console.log('after deletion')
-                        console.log(self.controller.menuNodeCollection)
-
-                        // let nodeToRemove = self.controller.menuNodeCollection.getNodeById(element.id);
                         self.controller.menuNodeCollection.removeNodeAndChildren(element.id);
-
                         self.draw(self.controller.menuNodeCollection)
                     });
-
                 });
-
-
 
                 popupMenu.addPopupMenuItem(popupMenuItem)
                 popupMenu.addPopupMenuItem(popupMenuItem2)
